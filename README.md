@@ -17,5 +17,5 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 * Set up [rclone](https://cellgeni.readthedocs.io/en/latest/rclone.html) for Google Drive communication. Please avoid putting any sequence data (FASTQ/BAM/CRAM being the most common) there due to ethics.
 
 For most analysis needs, JupyterHub is likely to suffice. There are more specialised resources available if need be:
-* CellGenIT offer access to GPU notebooks, contact Martin Prete (mp33)
+* CellGenIT offer interactive access to GPUs, fill in the [google form](https://docs.google.com/forms/d/e/1FAIpQLSeTgn0_60_5uovO11bMizbCQv6IuUCVUjLuCJAaUbt5lKaPlA/viewform) or contact Martin Prete (mp33)
 * Follow the [basecloud](https://github.com/Teichlab/basecloud) tutorial to create an OpenStack instance
