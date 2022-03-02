@@ -7,7 +7,7 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
   * [VPN](https://www.sanger.ac.uk/covid/)
   * Mattermost. Open the Mattermost app that comes installed on the laptop, and add a new server under server management. Provide https://mattermost.sanger.ac.uk/teichmann as the address, and Teichmann Group as the display name. You'll be able to access Mattermost both via the app, and also at https://mattermost.sanger.ac.uk in a browser. Once within the server, join the following channels:
 ![channels](mattermost.png)
-* Write servicedesk (at sanger.ac.uk) asking for iRODS access, and being added to group team205 on it.
+* Write an email to servicedesk (at sanger.ac.uk) with the following line: "Please create an iRODS account for me, and then pass this ticket to ISG to add me to iRODS group team205"
 * Acquire GitHub credentials if you don't have them, and write the following people on Mattermost:
   * Martin Prete (mp33), asking for access to JupyterHub. Once granted access, go to https://jhub.cellgeni.sanger.ac.uk/ and select the Teichlab image from the list after logging in with your GitHub account. Enjoy an environment packed full of relevant analysis packages pre-installed for you.
   * Krzysztof Polanski (kp9), asking for membership in the Teichlab GitHub organisation, granting access to [Scripts](https://github.com/Teichlab/mapcloud/tree/master/scripts) and [sctk](https://github.com/Teichlab/sctk) repositories.
