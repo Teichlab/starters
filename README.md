@@ -5,7 +5,7 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 **Main things to do:**
 * Use your Sanger login credentials to get access to [VPN](https://www.sanger.ac.uk/covid/).
 * Await an invitation email to Slack. Once you register, you'll see a message from Slackbot. Interact with the bot and select Teichlab once prompted for a team to join. If something doesn't work out in the process, write Krzysztof Polanski (kp9).
-* Write an email to servicedesk (at sanger.ac.uk) with the following line: "Please create an iRODS account for me, and then pass this ticket to ISG to add me to iRODS group team205"
+* Write an email to servicedesk (at sanger.ac.uk) with the following line: "Please create an iRODS account for me, and then pass this ticket to ISG to add me to iRODS group team205#archive"
 * Acquire GitHub credentials if you don't have them, and write the following people on Slack:
   * Martin Prete (mp33), asking for access to JupyterHub. Once granted access, go to https://jhub.cellgeni.sanger.ac.uk/ and select the Teichlab image from the list after logging in with your GitHub account. Enjoy an environment packed full of relevant analysis packages pre-installed for you.
   * Krzysztof Polanski (kp9), asking for membership in the Teichlab GitHub organisation, granting access to [Scripts](https://github.com/Teichlab/mapcloud/tree/master/scripts) and [sctk](https://github.com/Teichlab/sctk) repositories.
