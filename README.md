@@ -5,7 +5,9 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 **Main things to do:**
 * Use your Sanger login credentials to get access to [VPN](https://www.sanger.ac.uk/covid/).
 * Await an invitation email to Slack. Once you register, you'll see a message from Slackbot. Interact with the bot and select Teichlab once prompted for a team to join. If something doesn't work out in the process, write Krzysztof Polanski (kp9), Alicja Wilk (aw33) or Martin Prete (mp33).
-* Determine your admin person for two following tasks. Check if Krzysztof Polanski (kp9) has a holiday status set on Slack. If not, use him. If so, use Shuang Li (sl37).
+* Determine your admin person for two following tasks. Find the highest person on this list who is not on holiday as per Slack:
+    * Krzysztof Polanski (kp9)
+    * Shuang Li (sl37)
 * Send the following email to servicedesk (at sanger.ac.uk), with your admin person on CC for approval:
 ```
 Please add me to Unix group team205, and LSF group teichlab. Please create an iRODS account for me, and then pass this ticket to ISG to add me to iRODS group team205#archive.
