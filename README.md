@@ -23,4 +23,4 @@ Please add me to Unix group team205, and LSF group teichlab. Please create an iR
 
 For most analysis needs, JupyterHub is likely to suffice. There are more specialised resources available if need be:
 * CellGenIT offer interactive access to GPUs, fill in the [google form](https://docs.google.com/forms/d/e/1FAIpQLSeTgn0_60_5uovO11bMizbCQv6IuUCVUjLuCJAaUbt5lKaPlA/viewform).
-* Follow the [basecloud](https://github.com/Teichlab/basecloud) tutorial to create an OpenStack instance,
+* Follow the [basecloud](https://github.com/Teichlab/basecloud) tutorial to create an OpenStack instance.
