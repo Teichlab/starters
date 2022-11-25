@@ -14,7 +14,7 @@ Please add me to Unix group team205, and LSF group teichlab. Please create an iR
 ```
 * Make a GitHub account if you don't have one. Please ensure that you fill in your full name in the account details for ease of identification. Then do the following:
   * Email cellgeni (at sanger.ac.uk), specifying your GitHub user name and the fact that you're from Teichlab, asking for access to JupyterHub. Once granted access, go to https://jhub.cellgeni.sanger.ac.uk/ and select the Teichlab image from the list after logging in with your GitHub account. Enjoy an environment packed full of relevant analysis packages pre-installed for you, just select `teichlab` from the quickstart launch thing when creating notebooks.
-  * Write your admin person on Slack, asking for membership in the Teichlab GitHub organisation, granting access to [Scripts](https://github.com/Teichlab/mapcloud/tree/master/scripts) and other "Teichlab public" repositories.
+  * Write your admin person on Slack with your GitHub user name, asking for membership in the Teichlab GitHub organisation, granting access to [Scripts](https://github.com/Teichlab/mapcloud/tree/master/scripts) and other "Teichlab public" repositories.
 
 **More specialised:**
 * Write servicedesk to enrol for a farm course, which will allow cluster job submission once completed.
