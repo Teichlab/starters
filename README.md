@@ -4,7 +4,7 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 
 **Main things to do:**
 * Use your Sanger login credentials to get access to [VPN](https://www.sanger.ac.uk/covid/).
-* Await an invitation email to Slack. Once you register, you'll see a message from Slackbot. Interact with the bot and select Teichlab once prompted for a team to join. If something doesn't work out in the process, write Krzysztof Polanski (kp9), Alicja Wilk (aw33) or Martin Prete (mp33).
+* Await an invitation email to Slack. Once you register, you'll see Slackbot in your direct messages. Follow the bot's instructions (press next, then select Teichmann group from the dropdown and confirm). If something doesn't work out in the process, write Krzysztof Polanski (kp9), Alicja Wilk (aw33) or Martin Prete (mp33).
 * Determine your admin person for two following tasks. Find the highest person on this list who is not on holiday as per Slack:
     * Krzysztof Polanski (kp9)
     * Shuang Li (sl37)
