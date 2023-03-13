@@ -8,9 +8,13 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
     * Krzysztof Polanski (kp9)
     * Simon Koplev (sk29)
     * Shuang Li (sl37)
-* Make a GitHub account if you don't have one. Please ensure that you fill in your full name in the account details for ease of identification. Write your admin person on Slack with a quick introduction and your GitHub user name. This will result in some emails going out with you on CC.
-    * The admin-side instructions are [here](https://github.com/Teichlab/starters-admin) in case they're needed
-* Once the emails resolve, follow the [quick start guide](https://github.com/Teichlab/scripts/tree/main/data_processing/quickstart) to get set up computationally. If anything goes wrong, contact your admin person for assistance.
+* Make a GitHub account if you don't have one. Please ensure that you fill in your full name in the account details for ease of identification. Write your admin person on Slack with the following:
+    * A quick introduction
+    * Your GitHub user name
+    * Whether your Sanger computer is Mac or Windows
+    * Your Sanger computer's machine number (written on the red sticker on the lid)
+        * *The admin-side instructions are [here](https://github.com/Teichlab/starters-admin) in case they're needed*
+* This will result in some emails going out with you on CC. Once the emails resolve, follow the [quick start guide](https://github.com/Teichlab/scripts/tree/main/data_processing/quickstart) to get set up computationally. If anything goes wrong, contact your admin person for assistance.
 
 **Useful resources:**
 * Get access to [VPN](https://www.sanger.ac.uk/covid/) with your Sanger credentials for comfortable off-site working.
@@ -19,7 +23,7 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 * The main group meeting happens Mondays 2-3pm in C3-03 in the Sulston building. Wet and dry meetings happen on alternating Fridays 9:30-10:30 am in C3-03 as well. There are a number of other project-related meetings taking place, with a master spreadsheet [here](https://docs.google.com/spreadsheets/d/1MQZBzP1h9KcrBkpvOS1ay6ugQwfHBETs/edit#gid=2127558975).
 
 **More specialised:**
-* Write servicedesk to enrol for a farm course, which will allow cluster job submission once completed.
+* Email servicedesk to enrol for a farm course, which will allow cluster job submission once completed.
 * Set up [rclone](https://cellgeni.readthedocs.io/en/latest/rclone.html) for Google Drive communication. Please avoid putting any sequence data (FASTQ/BAM/CRAM being the most common) there due to ethics.
 * JupyterHub offers [documentation](https://cellgeni.readthedocs.io/en/latest/jupyterhub.html) in case you want to do anything more advanced there.
 * Figure-making software access detailed [here](https://github.com/Teichlab/figure-software).
