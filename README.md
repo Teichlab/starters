@@ -17,7 +17,7 @@ First off, hello and welcome to Teichlab! Below you'll find a list of things tha
 * This will result in some emails going out with you on CC. Once the emails resolve, follow the [quick start guide](https://github.com/Teichlab/scripts/tree/main/data_processing/quickstart) to get set up computationally. If anything goes wrong, contact your admin person for assistance.
 
 **Useful resources:**
-* Get access to [VPN](https://www.sanger.ac.uk/covid/) with your Sanger credentials for comfortable off-site working.
+* Your Sanger machine should come with GlobalProtect, a VPN for comfortable off-site working. On Macs, look for a little globe icon in the menu bar at the top of the screen. Click it and log in via Okta.
 * The desk booking system is [here](https://sanger.officespacesoftware.com/visual-directory/floors/439). The link should take you to Morgan 2, where you're likely to encounter a lot of other Teichlab people in the open-plan office.
 * A master post of bus-related information (links to timetables, step by step booking app guide) is available [here](https://fred.wellcomegenomecampus.org/Interact/Pages/Content/Document.aspx?id=2075).
 * The main group meeting happens Mondays 2-3pm in C3-03 in the Sulston building. Wet and dry meetings happen on alternating Fridays 9:30-10:30 am in C3-03 as well. There are a number of other project-related meetings taking place, with a master spreadsheet [here](https://docs.google.com/spreadsheets/d/1MQZBzP1h9KcrBkpvOS1ay6ugQwfHBETs/edit#gid=2127558975).
